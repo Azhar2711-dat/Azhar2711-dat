@@ -1,6 +1,6 @@
 # Azhar Kasar
 
-## Data Analyst
+# Data Analyst
 
 # About Me
 I am Azhar Kasar, a passionate Data Scientist with a strong foundation in data analysis, visualization, and exploration. I specialize in uncovering insights and providing data-driven solutions that drive success.
