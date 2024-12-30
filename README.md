@@ -1,16 +1,26 @@
-## Hi there 👋
+# Azhar Kasar
 
-<!--
-**Azhar2711-dat/Azhar2711-dat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+# About Me
+I am Azhar Kasar, a passionate Data Scientist with a strong foundation in data analysis, visualization, and exploration. I specialize in uncovering insights and providing data-driven solutions that drive success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+**SQL:**  Advanced querying and database management.
+**Power BI:**  Interactive dashboards and data visualizations.
+**Exploratory Data Analysis (EDA):**  In-depth data exploration and pattern recognition.
+**Excel:**  Data organization, analysis, and automation.
+
+## Education
+
+Bachelor of Computer Applications (BCA)
+Graduated with a comprehensive understanding of computing fundamentals and problem-solving skills.
+
+# What I Do
+
+- Transform raw data into meaningful insights.
+- Create interactive dashboards and reports to support decision-making.
+- Utilize statistical methods and tools to analyze complex datasets.
+- Collaborate on data-driven projects to solve real-world problems.
+
