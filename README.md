@@ -7,10 +7,10 @@ I am Azhar Kasar, a passionate Data Scientist with a strong foundation in data a
 
 # Skills
 
-**SQL:**  Advanced querying and database management.
-**Power BI:**  Interactive dashboards and data visualizations.
-**Exploratory Data Analysis (EDA):**  In-depth data exploration and pattern recognition.
-**Excel:**  Data organization, analysis, and automation.
+- **SQL:**  Advanced querying and database management.
+- **Power BI:**  Interactive dashboards and data visualizations.
+- **Exploratory Data Analysis (EDA):**  In-depth data exploration and pattern recognition.
+- **Excel:**  Data organization, analysis, and automation.
 
 ## Education
 
